@@ -5,7 +5,7 @@ import {Menu, X, ArrowUpRight, ArrowRight, Mountain, Waves, Utensils, Sparkles, 
 import './styles.css';
 
 const IMG = {
-  hero: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2200&q=90',
+  hero: 'https://images.unsplash.com/photo-1678956678855-3513428ed615?auto=format&fit=crop&w=2200&q=88',
   hills: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1400&q=88',
   room: 'https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=88',
   suite: 'https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1400&q=88',
