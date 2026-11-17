@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import {createRoot} from 'react-dom/client';
 import {BrowserRouter, Routes, Route, Link, NavLink, useLocation, useNavigate, useSearchParams} from 'react-router-dom';
-import {Menu, X, ArrowUpRight, ArrowRight, Mountain, Waves, Utensils, Sparkles, Users, CalendarDays, MapPin, Phone, Mail, Check, BedDouble, Wifi, Car, Coffee, Leaf, ChevronDown, Star, Instagram} from 'lucide-react';
+import {Menu, X, ArrowUpRight, ArrowRight, Mountain, Waves, Utensils, Sparkles, Users, CalendarDays, MapPin, Phone, Mail, Check, BedDouble, Wifi, Car, Coffee, Leaf, ChevronDown, Star} from 'lucide-react';
 import './styles.css';
 
 const IMG = {
